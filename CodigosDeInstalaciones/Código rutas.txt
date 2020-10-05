@@ -1,0 +1,38 @@
+import React from 'react';
+import Encabezado from "./Encabezado";
+import CuerpoPrimeraVista from './CuerpoPrimeraVista';
+
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Resultados from './Resultados.js';
+
+
+
+
+
+function PrimeraVista() {
+  return (
+
+
+
+
+    <div class="container ">
+      <BrowserRouter>
+        <Switch>
+          <Route path={'/resultados'} component={Resultados}></Route>
+
+        </Switch>
+      </BrowserRouter>
+
+
+      <Encabezado />
+
+      <CuerpoPrimeraVista />
+
+    </div>
+
+
+
+  );
+}
+
+export default PrimeraVista;

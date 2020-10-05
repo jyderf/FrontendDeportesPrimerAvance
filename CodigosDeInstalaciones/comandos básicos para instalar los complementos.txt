@@ -1,0 +1,50 @@
+npm install react-hook-form //PARA HOOKS ELEMENTOS DE REACT PARA NO USAR CLASES
+
+npm i shortid //PARA AGREGAR, EDITAR O QUITAR TAREAS DINAMICAMENTE
+
+npm install react-router-dom //PARA EL MANEJO DE RUTAS
+
+npm i firebase // SI HAY UNA AP EN LA NUBE DE FIREBASE PARA GESTIONARLA AHÍ
+
+///////////////PARA USAR AUTENTICACIONES DE EMAIL Y PASSWORD Y CONEXIÓN CON firebase
+
+npx create-react-app login-udemy-1
+
+npm i firebase
+
+npm i react-router-dom
+
+
+////////////////////likn BOOTSTRAP INDICACIONES
+https://platzi.com/tutoriales/1199-react/3051-incluir-bootstrap-en-react/
+
+PARA EL SLIDER INSTALAR
+
+Installation
+
+npm install react-slick --save
+
+yarn add react-slick
+
+PEGAR EL SIGUIENTE CÓDIGO EN EL INDEX HTML CERCA DE LOS ENLACES
+
+<link
+  rel="stylesheet"
+  type="text/css"
+  charset="UTF-8"
+  href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"
+/>
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
+/>
+
+
+///////////////////////////////////////
+
+ENLACE MENÚ
+https://bootsnipp.com/snippets/yNqbr
+
+
+
